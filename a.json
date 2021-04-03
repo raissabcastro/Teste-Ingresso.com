@@ -1,0 +1,542 @@
+[
+  {
+    "id": "5",
+    "name": "Em Alta",
+    "carouselSlug": "em-alta",
+    "priority": 2,
+    "events": [
+      {
+        "id": "24217",
+        "title": "Judas e o Messias Negro",
+        "originalTitle": "Judas And The Black Messiah",
+        "movieIdUrl": "",
+        "ancineId": "E2100040400000",
+        "countryOrigin": "Estados Unidos",
+        "priority": 1,
+        "contentRating": "16 anos",
+        "duration": "126",
+        "rating": 0.0,
+        "synopsis": "A história de ascensão e queda de Fred Hampton, o ativista dos direitos dos negros e revolucionário líder do partido dos Panteras Negras. Um jovem proeminente na política, ele atrai a atenção do FBI, que com a ajuda de William O’Neal acaba infiltrando os Panteras Negras e causando o assassinato de Hampton.\n",
+        "cast": " Daniel Kaluuya, Lakeith Stanfield, Martin Sheen",
+        "director": "Shaka King",
+        "distributor": "Warner Bros",
+        "inPreSale": false,
+        "isReexhibition": false,
+        "urlKey": "judas-e-o-messias-negro",
+        "isPlaying": false,
+        "countIsPlaying": 0,
+        "premiereDate": {
+          "localDate": "2021-02-25T00:00:00+00:00",
+          "isToday": false,
+          "dayOfWeek": "quinta-feira",
+          "dayAndMonth": "25/02",
+          "hour": "00:00",
+          "year": "2021"
+        },
+        "creationDate": "0001-01-01T00:00:00Z",
+        "city": "Rio de Janeiro",
+        "siteURL": "https://www.ingresso.com/rio-de-janeiro/home/filmes/judas-e-o-messias-negro",
+        "nationalSiteURL": "https://www.ingresso.com/filme/judas-e-o-messias-negro?city=rio-de-janeiro&partnership=",
+        "images": [
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24217-destaque.jpg",
+            "type": "PosterHorizontal"
+          },
+          {
+            "url": "https://ingresso-a.akamaihd.net/prd/img/movie/judas-e-o-messias-negro/bbc1cca5-bae8-4b7d-b7cd-a89652ac3c14.jpg",
+            "type": "PosterPortrait"
+          }
+        ],
+        "genres": [
+          "Drama"
+        ],
+        "ratingDescriptors": [
+          "Drogas Lícitas",
+          "Linguagem Imprópria",
+          "Violência"
+        ],
+        "completeTags": [],
+        "tags": [],
+        "trailers": [
+          {
+            "type": "Youtube",
+            "url": "https://www.youtube.com/watch?v=GSJTm3RkS3w",
+            "embeddedUrl": "//www.youtube.com/embed/GSJTm3RkS3w"
+          }
+        ],
+        "boxOfficeId": null,
+        "partnershipType": null,
+        "rottenTomatoe": {
+          "id": "30b34114-5e43-4108-ba48-af305ed128cb",
+          "criticsRating": "Certified",
+          "criticsScore": "96",
+          "audienceRating": "Upright",
+          "audienceScore": "95",
+          "originalUrl": "https://www.rottentomatoes.com/m/judas_and_the_black_messiah"
+        }
+      },
+      {
+        "id": "23800",
+        "title": "Mulher-Maravilha 1984",
+        "originalTitle": " Wonder Woman 1984",
+        "movieIdUrl": "",
+        "ancineId": "E2000170200000",
+        "countryOrigin": "Estados Unidos",
+        "priority": 2,
+        "contentRating": "12 anos",
+        "duration": "151",
+        "rating": 0.0,
+        "synopsis": "Mulher-Maravilha 1984 acompanha Diana em 1984, durante a Guerra Fria, entrando em conflito com dois grande inimigos - o empresário de mídia Maxwell Lord e a amiga que virou inimiga Barbara Minerva, enquanto se reúne com seu interesse amoroso Steve Trevor.\n",
+        "cast": "Gal Gadot, Chris Pine, Kristen Wiig, Connie Nielsen, Pedro Pascal",
+        "director": "Patty Jenkins",
+        "distributor": "Warner Bros",
+        "inPreSale": false,
+        "isReexhibition": false,
+        "urlKey": "mulher-maravilha-1984",
+        "isPlaying": false,
+        "countIsPlaying": 0,
+        "premiereDate": {
+          "localDate": "2020-12-16T00:00:00+00:00",
+          "isToday": false,
+          "dayOfWeek": "quarta-feira",
+          "dayAndMonth": "16/12",
+          "hour": "00:00",
+          "year": "2020"
+        },
+        "creationDate": "0001-01-01T00:00:00Z",
+        "city": "Rio de Janeiro",
+        "siteURL": "https://www.ingresso.com/rio-de-janeiro/home/filmes/mulher-maravilha-1984",
+        "nationalSiteURL": "https://www.ingresso.com/filme/mulher-maravilha-1984?city=rio-de-janeiro&partnership=",
+        "images": [
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/23800-cartaz.jpg",
+            "type": "PosterPortrait"
+          },
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/23800-destaque.jpg",
+            "type": "PosterHorizontal"
+          }
+        ],
+        "genres": [
+          "Ação",
+          "Aventura",
+          "Fantasia"
+        ],
+        "ratingDescriptors": [
+          "Atos Criminosos",
+          "Drogas Lícitas",
+          "Violência Fantasiosa"
+        ],
+        "completeTags": [],
+        "tags": [],
+        "trailers": [
+          {
+            "type": "Youtube",
+            "url": "https://www.youtube.com/watch?v=8XrFAXykgoc",
+            "embeddedUrl": "//www.youtube.com/embed/8XrFAXykgoc"
+          }
+        ],
+        "boxOfficeId": null,
+        "partnershipType": null,
+        "rottenTomatoe": {
+          "id": "7cfa215f-4b44-3188-9770-3ddd813d1c9f",
+          "criticsRating": "Rotten",
+          "criticsScore": "59",
+          "audienceRating": "Upright",
+          "audienceScore": "74",
+          "originalUrl": "https://www.rottentomatoes.com/m/wonder_woman_1984"
+        }
+      },
+      {
+        "id": "24140",
+        "title": "Tom & Jerry – O Filme ",
+        "originalTitle": "Tom & Jerry ",
+        "movieIdUrl": "",
+        "ancineId": "E2000553800000",
+        "countryOrigin": "Estados Unidos",
+        "priority": 3,
+        "contentRating": "Livre",
+        "duration": "102",
+        "rating": 0.0,
+        "synopsis": "Depois de anos vivendo na casa de um casal de idosos que o trata como um animal de estimação, Jerry precisa se virar para sobreviver quando descobre que existem novos locatários no local. E pior do que isso: eles trouxeram consigo um gato. \n",
+        "cast": "Chloë Grace Moretz, Michael Peña, Ken Jeong",
+        "director": "Tim Story",
+        "distributor": "Warner Bros",
+        "inPreSale": false,
+        "isReexhibition": false,
+        "urlKey": "tom-e-jerry-o-filme",
+        "isPlaying": false,
+        "countIsPlaying": 0,
+        "premiereDate": {
+          "localDate": "2021-02-11T00:00:00+00:00",
+          "isToday": false,
+          "dayOfWeek": "quinta-feira",
+          "dayAndMonth": "11/02",
+          "hour": "00:00",
+          "year": "2021"
+        },
+        "creationDate": "0001-01-01T00:00:00Z",
+        "city": "Rio de Janeiro",
+        "siteURL": "https://www.ingresso.com/rio-de-janeiro/home/filmes/tom-e-jerry-o-filme",
+        "nationalSiteURL": "https://www.ingresso.com/filme/tom-e-jerry-o-filme?city=rio-de-janeiro&partnership=",
+        "images": [
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24140-cartaz.jpg",
+            "type": "PosterPortrait"
+          },
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24140-destaque.jpg",
+            "type": "PosterHorizontal"
+          }
+        ],
+        "genres": [
+          "Animação",
+          "Aventura",
+          "Comédia"
+        ],
+        "ratingDescriptors": [],
+        "completeTags": [],
+        "tags": [],
+        "trailers": [],
+        "boxOfficeId": null,
+        "partnershipType": null,
+        "rottenTomatoe": {
+          "id": "6683fdf1-4338-310d-bb96-7823fa8fe368",
+          "criticsRating": "Rotten",
+          "criticsScore": "27",
+          "audienceRating": "Upright",
+          "audienceScore": "83",
+          "originalUrl": "https://www.rottentomatoes.com/m/tom_and_jerry"
+        }
+      },
+      {
+        "id": "24099",
+        "title": "Pinóquio",
+        "originalTitle": "Pinocchio",
+        "movieIdUrl": "",
+        "ancineId": "E2000294800000",
+        "countryOrigin": "Estados Unidos",
+        "priority": 5,
+        "contentRating": "10 anos",
+        "duration": "125",
+        "rating": 0.0,
+        "synopsis": "Conheça a verdade sombria por trás do clássico que marcou gerações. Gepeto é um solitário marceneiro que sonha em ser pai e deseja que Pinóquio, o boneco que acabou de construir, ganhe vida. Seu pedido é atendido, mas a desobediência de Pinóquio faz com que ele se perca de casa e embarque em uma jornada repleta de mistérios e seres fantásticos, que o levará a conhecer de perto os perigos do mundo.\n",
+        "cast": "Federico Ielapi, Roberto Benigni, Gigi Proietti, Rocco Papaleo, Massimo Ceccherini, Marine Vacth",
+        "director": "Matteo Garrone",
+        "distributor": "Imagem Filmes",
+        "inPreSale": false,
+        "isReexhibition": false,
+        "urlKey": "pinoquio",
+        "isPlaying": false,
+        "countIsPlaying": 0,
+        "premiereDate": {
+          "localDate": "2021-01-21T00:00:00+00:00",
+          "isToday": false,
+          "dayOfWeek": "quinta-feira",
+          "dayAndMonth": "21/01",
+          "hour": "00:00",
+          "year": "2021"
+        },
+        "creationDate": "0001-01-01T00:00:00Z",
+        "city": "Rio de Janeiro",
+        "siteURL": "https://www.ingresso.com/rio-de-janeiro/home/filmes/pinoquio",
+        "nationalSiteURL": "https://www.ingresso.com/filme/pinoquio?city=rio-de-janeiro&partnership=",
+        "images": [
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24099-cartaz.jpg",
+            "type": "PosterPortrait"
+          },
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24099-destaque.jpg",
+            "type": "PosterHorizontal"
+          }
+        ],
+        "genres": [
+          "Drama",
+          "Fantasia"
+        ],
+        "ratingDescriptors": [
+          "Violência"
+        ],
+        "completeTags": [],
+        "tags": [],
+        "trailers": [],
+        "boxOfficeId": null,
+        "partnershipType": null,
+        "rottenTomatoe": {
+          "id": "5ebc4830-2974-3638-833d-b4cbe2b5f11b",
+          "criticsRating": "Fresh",
+          "criticsScore": "89",
+          "audienceRating": "",
+          "audienceScore": "",
+          "originalUrl": "https://www.rottentomatoes.com/m/pinocchio_2020"
+        }
+      },
+      {
+        "id": "21495",
+        "title": "Depois A Louca Sou Eu",
+        "originalTitle": "Depois A Louca Sou Eu",
+        "movieIdUrl": "https://www.movieid.com/depoisaloucasoueu",
+        "ancineId": "B2000078000000",
+        "countryOrigin": "Brasil",
+        "priority": 7,
+        "contentRating": "16 anos",
+        "duration": "120",
+        "rating": 0.0,
+        "synopsis": "Jovem, intensa e autêntica, Dani só queria levar uma vida normal. Mas, desde criança, vive em descompasso com seu mundo. Enquanto encanta a todos com o talento que a torna uma brilhante escritora, ela tenta de todas as formas controlar seus medos e constantes crises de ansiedade.\n\n\n\n",
+        "cast": "Débora Falabella, Débora Lamm, Yara de Novaes",
+        "director": "Julia Rezende",
+        "distributor": "Downtown Filmes",
+        "inPreSale": false,
+        "isReexhibition": false,
+        "urlKey": "depois-a-louca-sou-eu",
+        "isPlaying": false,
+        "countIsPlaying": 0,
+        "premiereDate": {
+          "localDate": "2021-02-25T00:00:00+00:00",
+          "isToday": false,
+          "dayOfWeek": "quinta-feira",
+          "dayAndMonth": "25/02",
+          "hour": "00:00",
+          "year": "2021"
+        },
+        "creationDate": "0001-01-01T00:00:00Z",
+        "city": "Rio de Janeiro",
+        "siteURL": "https://www.ingresso.com/rio-de-janeiro/home/filmes/depois-a-louca-sou-eu",
+        "nationalSiteURL": "https://www.ingresso.com/filme/depois-a-louca-sou-eu?city=rio-de-janeiro&partnership=",
+        "images": [
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/21495-cartaz.jpg",
+            "type": "PosterPortrait"
+          },
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/21495-destaque.jpg",
+            "type": "PosterHorizontal"
+          }
+        ],
+        "genres": [
+          "Comédia"
+        ],
+        "ratingDescriptors": [
+          "Conteúdo Sexual",
+          "Drogas Lícitas",
+          "Nudez"
+        ],
+        "completeTags": [],
+        "tags": [],
+        "trailers": [
+          {
+            "type": "Youtube",
+            "url": "https://www.youtube.com/watch?v=xA2Oz90GYGI",
+            "embeddedUrl": "//www.youtube.com/embed/xA2Oz90GYGI"
+          }
+        ],
+        "boxOfficeId": null,
+        "partnershipType": null,
+        "rottenTomatoe": null
+      },
+      {
+        "id": "24184",
+        "title": "#Semsaída",
+        "originalTitle": "#Followme",
+        "movieIdUrl": "",
+        "ancineId": "E2100006300000",
+        "countryOrigin": "Estados Unidos / Reino Unido",
+        "priority": 9,
+        "contentRating": "16 anos",
+        "duration": "91",
+        "rating": 0.0,
+        "synopsis": "Três jovens londrinas, uma Youtuber e suas duas amigas, que viajam de Los Angeles para São Francisco, desaparecem de um motel na Califória depois de postarem nas redes sociais usando a hashtag #followme.\n",
+        "cast": "Keegan Allen, Holland Roden, Denzel Whitaker",
+        "director": "Will Wernick",
+        "distributor": "PlayArte",
+        "inPreSale": false,
+        "isReexhibition": false,
+        "urlKey": "semsaida",
+        "isPlaying": false,
+        "countIsPlaying": 0,
+        "premiereDate": {
+          "localDate": "2021-02-11T00:00:00+00:00",
+          "isToday": false,
+          "dayOfWeek": "quinta-feira",
+          "dayAndMonth": "11/02",
+          "hour": "00:00",
+          "year": "2021"
+        },
+        "creationDate": "0001-01-01T00:00:00Z",
+        "city": "Rio de Janeiro",
+        "siteURL": "https://www.ingresso.com/rio-de-janeiro/home/filmes/semsaida",
+        "nationalSiteURL": "https://www.ingresso.com/filme/semsaida?city=rio-de-janeiro&partnership=",
+        "images": [
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24184-cartaz.jpg",
+            "type": "PosterPortrait"
+          },
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24184-destaque.jpg",
+            "type": "PosterHorizontal"
+          }
+        ],
+        "genres": [
+          "Suspense",
+          "Terror"
+        ],
+        "ratingDescriptors": [
+          "Linguagem Imprópria",
+          "Violência Extrema"
+        ],
+        "completeTags": [],
+        "tags": [],
+        "trailers": [
+          {
+            "type": "Youtube",
+            "url": "https://www.youtube.com/watch?v=pldm8SzXzuE",
+            "embeddedUrl": "//www.youtube.com/embed/pldm8SzXzuE"
+          }
+        ],
+        "boxOfficeId": null,
+        "partnershipType": null,
+        "rottenTomatoe": {
+          "id": "1c4782c3-2a9a-4245-b559-affd974d329a",
+          "criticsRating": "",
+          "criticsScore": "",
+          "audienceRating": "",
+          "audienceScore": "",
+          "originalUrl": "https://www.rottentomatoes.com/m/771534109"
+        }
+      },
+      {
+        "id": "24093",
+        "title": "O Mensageiro do Último Dia",
+        "originalTitle": "The Empty Man",
+        "movieIdUrl": "https://www.movieid.com/omensageirodoultimodia",
+        "ancineId": "E2000471300000",
+        "countryOrigin": "EUA",
+        "priority": 10,
+        "contentRating": "16 anos",
+        "duration": "137",
+        "rating": 0.0,
+        "synopsis": "Quando um grupo de adolescentes de uma pequena cidade do meio-oeste americano começa a desaparecer misteriosamente, os moradores acreditam que é obra de uma lenda urbana conhecida como O Homem Vazio. Enquanto um policial aposentado investiga e luta para dar sentido às histórias, ele descobre um grupo secreto e suas tentativas de invocar uma entidade mística e horrível, e logo sua vida - e as vidas de pessoas próximas a ele - estão em grave perigo. \n",
+        "cast": "Marin Ireland, Stephen Root, Robert Aramayo, Samantha Logan, James Badge Dale, Owen Teague, Virginia Kull, Evan Jonigkeit, Joel Courtney, Ron Canada, Jessica Matten, Sasha Frolova, Tanya van Graan\n\n",
+        "director": " David Prior",
+        "distributor": "Disney",
+        "inPreSale": false,
+        "isReexhibition": false,
+        "urlKey": "o-mensageiro-do-ultimo-dia",
+        "isPlaying": false,
+        "countIsPlaying": 0,
+        "premiereDate": {
+          "localDate": "2021-01-14T00:00:00+00:00",
+          "isToday": false,
+          "dayOfWeek": "quinta-feira",
+          "dayAndMonth": "14/01",
+          "hour": "00:00",
+          "year": "2021"
+        },
+        "creationDate": "0001-01-01T00:00:00Z",
+        "city": "Rio de Janeiro",
+        "siteURL": "https://www.ingresso.com/rio-de-janeiro/home/filmes/o-mensageiro-do-ultimo-dia",
+        "nationalSiteURL": "https://www.ingresso.com/filme/o-mensageiro-do-ultimo-dia?city=rio-de-janeiro&partnership=",
+        "images": [
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24093-cartaz.jpg",
+            "type": "PosterPortrait"
+          },
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24093-destaque.jpg",
+            "type": "PosterHorizontal"
+          }
+        ],
+        "genres": [
+          "Drama",
+          "Suspense",
+          "Terror"
+        ],
+        "ratingDescriptors": [
+          "Conteúdo Sexual",
+          "Drogas Lícitas",
+          "Violência"
+        ],
+        "completeTags": [],
+        "tags": [],
+        "trailers": [
+          {
+            "type": "Youtube",
+            "url": "https://www.youtube.com/watch?v=JXzai1eshoE",
+            "embeddedUrl": "//www.youtube.com/embed/JXzai1eshoE"
+          }
+        ],
+        "boxOfficeId": null,
+        "partnershipType": null,
+        "rottenTomatoe": {
+          "id": "12d7bad3-93f5-3194-8d76-256fcc8d791c",
+          "criticsRating": "Rotten",
+          "criticsScore": "56",
+          "audienceRating": "Spilled",
+          "audienceScore": "39",
+          "originalUrl": "https://www.rottentomatoes.com/m/the_empty_man"
+        }
+      },
+      {
+        "id": "24084",
+        "title": "Notre Dame",
+        "originalTitle": "Notre Dame",
+        "movieIdUrl": "https://www.movieid.com/notredame",
+        "ancineId": "E1900615900000",
+        "countryOrigin": "França",
+        "priority": 11,
+        "contentRating": "Verifique a Classificação",
+        "duration": "90",
+        "rating": 0.0,
+        "synopsis": "Maud Crayon, arquiteta e mãe de duas crianças, conquista – graças a um mal-entendido – o grande concurso promovido pela prefeitura de Paris para reformar o pátio diante da catedral de Notre-Dame... Às voltas com essa nova responsabilidade, ela se vê em meio a uma tempestade ao ter de lidar ao mesmo tempo com um antigo amor da juventude que reaparece de repente e com o pai de seus filhos, a quem não chega a abandonar completamente.\n",
+        "cast": "Pierre Deladonchamps, Valérie Donzelli, Bouli Lanners",
+        "director": "Valérie Donzelli",
+        "distributor": "California Filmes",
+        "inPreSale": false,
+        "isReexhibition": false,
+        "urlKey": "notre-dame",
+        "isPlaying": false,
+        "countIsPlaying": 0,
+        "premiereDate": {
+          "localDate": "2021-02-11T00:00:00+00:00",
+          "isToday": false,
+          "dayOfWeek": "quinta-feira",
+          "dayAndMonth": "11/02",
+          "hour": "00:00",
+          "year": "2021"
+        },
+        "creationDate": "0001-01-01T00:00:00Z",
+        "city": "Rio de Janeiro",
+        "siteURL": "https://www.ingresso.com/rio-de-janeiro/home/filmes/notre-dame",
+        "nationalSiteURL": "https://www.ingresso.com/filme/notre-dame?city=rio-de-janeiro&partnership=",
+        "images": [
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24084-cartaz.jpg",
+            "type": "PosterPortrait"
+          },
+          {
+            "url": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/24084-destaque.jpg",
+            "type": "PosterHorizontal"
+          }
+        ],
+        "genres": [
+          "Comédia"
+        ],
+        "ratingDescriptors": [],
+        "completeTags": [],
+        "tags": [],
+        "trailers": [],
+        "boxOfficeId": null,
+        "partnershipType": null,
+        "rottenTomatoe": {
+          "id": "9d666157-c128-3c17-ad26-29b3fb5842bc",
+          "criticsRating": "",
+          "criticsScore": "",
+          "audienceRating": "",
+          "audienceScore": "",
+          "originalUrl": "https://www.rottentomatoes.com/m/771513751"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/estilo.css">
+    <script src="main.js" ></script>
+    <title>Filmes em cartaz | ingresso.com</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="navbar">
+                <div class="icones_nav">
+
+                    <img class="imgLogo" src="./css/imagens/ingresso-com-logo.png" >
+
+                </div>
+            </div>
+
+        <div class="body-container">
+
+                <div class="img-poster">
+                    <img id="PosterPortrait" src="" alt="">
+                    </div>
+                    <div class="text-body-container">  
+                    <h1 id="titulo"></h1>
+                    <p class="text-body-translate" id="tituloOriginal"></p>
+
+
+                    <div class="categoria">
+                        <p>Drama - 126min</p>
+                    </div>
+
+                    <div class="classificacao">
+                        <p id="contentRating"></p>
+                        <p id="ratingDescriptors"></p>
+                    </div>
+
+                    <div class="sinopse" id="synopsis">
+                    </div>
+                    <div class="director">
+                        <p id="director"><strong>Diretor: </strong></p>
+                    </div>
+                    <div class="actors">
+                        <p id="cast"><strong>Elenco:</strong></p>
+                    </div>
+
+
+                    <button data-modal-target="#modal">
+                        <img src="./css/imagens/play-button-arrowhead.svg" alt="">
+                        <p>Assistir Trailer</p>
+                    </button>
+            <div class="modal" id="modal">
+                <div class="modal-header">
+                <div class="title"></div>
+                <button data-close-button class="close-button">&times;</button>
+                </div>
+                <iframe class="modal-header" width="420" height="315"
+                    src="//www.youtube.com/embed/GSJTm3RkS3w">
+                </iframe>
+            </div>
+            <div id="overlay">
+            </div>
+            </div> 
+        </div>
+    </div>
+</header>
+
+
+<div class="content-container">
+    <div class="header-content">
+        <ul class="separator">
+            <li>ASSISTA TAMBÉM</li>
+        </ul>
+    </div>
+
+    <div class="mais_filmes">
+
+        <div class="filme" id="filme0">
+        </div>
+
+        <div class="filme" id="filme1">
+        </div>
+
+        <div class="filme" id="filme2">
+        </div>
+
+        <div class="filme" id="filme3">
+        </div>
+    </div>
+</div>
+
+<div class="footer">
+    <img src="./css/imagens/logo_i.png" alt="">
+</div>
+    
+
+</body>
+
+</html>
